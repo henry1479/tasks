@@ -1,0 +1,12 @@
+{
+    "require": {
+        "mjaschen/phpgeo": "^4.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Location\\": "src/",
+            "Location\\Distance\\": "src/Distance"
+
+        }
+    }
+}
